@@ -39,6 +39,6 @@
 
 
 
-[website]: https://taigaaa-blog.netlify.app
+[website]: https://taigaaa.netlify.app
 [twitter]: https://twitter.com/taiga_coding
 [instagram]: https://www.instagram.com/taigaaa.photos/
