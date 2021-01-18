@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning typescript seriosuly 🤣
 - 🥅 2021 Goals:  finish up a persnonal development and contribute opensurce project
-- ⚡ Fun fact: I like to do a yoga and watching a Youtube
+- ⚡ Fun fact: I like to do a Yoga and watching a Youtube
 
 
 ### Connect with me:
