@@ -4,7 +4,7 @@
 ## I'm a taiga, Developer !!
 
 - 🌱 I’m currently learning typescript seriosuly 🤣
-- 🥅 2021 Goals:  finish up a persnonal development and contribute opensurce project
+- 🥅 2021 Goals:  finish up a persnonal development and contribute Open Source projects
 - ⚡ Fun fact: I like to do a Yoga and watching a Youtube
 
 
