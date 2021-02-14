@@ -1,4 +1,4 @@
-### Hi there, I'm taiga 👋
+### Hi there 👋
 
 
 ## I'm a taiga, Developer !!
