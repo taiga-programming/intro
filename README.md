@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-## I'm a taiga, Developer !!
+## I'm taiga, Developer !!
 
-- 🌱 I’m currently learning typescript seriosuly 🤣
+- 🌱 I’m currently learning typescript seriosuly and blockchain🤣
 - 🥅 2021 Goals:  finish up a persnonal development and contribute Open Source projects
 - ⚡ Fun fact: I like to do a Yoga and watching a Youtube
 
